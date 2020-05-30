@@ -1,8 +1,32 @@
 React Native Libraries to use:
 
-.
+react-native-sound-level
+- possible issue with android?
 
-.
+react-native-audiowaveform
+- lots of issues
 
-.
+react-native-loudness
+- last commit 4 months ago
+
+react-native-audio-up
+- some issues
+
+react-native-audio
+- commit 5 months ago, some issues
+
+react-native-live-audio-stream
+- commits 2 months ago
+- may not be specific, but has potential
+
+react-native-stattus-audio
+- not on github
+
+react-native-simple-audio
+-recent commits, probably not specific enough though
+
+react-native-sound-recorder
+
+react-native-audio-toolkit
+- recent, issues
 
