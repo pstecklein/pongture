@@ -1,5 +1,5 @@
 React Native Libraries to use:
-
+find sound libraries and figure out how they work
 .
 
 .
